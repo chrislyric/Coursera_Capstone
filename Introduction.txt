@@ -1,0 +1,16 @@
+Battle of the Neighborhoods - Coursera Capstone Project
+
+Introduction
+
+A while ago, Amazon dropped the plans for New York Headquarters. The choice of a headquarter location is a result of serious and comprehensive consideration. One important aspect is whether the location is attractive to labors needed. 
+
+Based on the assumption that an XYZ company is looking for a new headquarter location in either Toronto, Canada or New York City, New York. This project will focus on the similarities and dissimilarities between certain neighborhoods in the two cities, especially conerning living quality of potential employees, and determine which neighborhood is a better choice. 
+
+Data and Methodology
+
+To help making the decision, we will need neighborhood data for both cities. The data are available from
+New York: https://geo.nyu.edu/catalog/nyu_2451_34572
+Toronto: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+A second source of data is the Foursquare data. 
+
+By segmentation and clustering, we will compare the similarity and dissimilarity of both cities and provide classification information for decision.
